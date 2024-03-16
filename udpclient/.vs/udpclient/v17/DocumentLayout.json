@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK2_2024\\LT_network\\Baitap\\udpclient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFFE6-2FF4-41E0-9460-B43E5D79E62D}|..\\UdpServer\\udpserver.csproj|e:\\hk2_2024\\lt_network\\baitap\\udpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFFE6-2FF4-41E0-9460-B43E5D79E62D}|..\\UdpServer\\UdpServer.csproj|e:\\hk2_2024\\lt_network\\baitap\\udpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56265B5-F0AF-424D-97B6-8EFDBA9067C6}|udpclient.csproj|E:\\HK2_2024\\LT_network\\Baitap\\udpclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56265B5-F0AF-424D-97B6-8EFDBA9067C6}|udpclient.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\HK2_2024\\LT_network\\Baitap\\udpclient\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\HK2_2024\\LT_network\\Baitap\\udpclient\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA3wDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:48:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\HK2_2024\\LT_network\\Baitap\\udpserver\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\udpserver\\Form1.cs",
+              "ToolTip": "E:\\HK2_2024\\LT_network\\Baitap\\udpserver\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\udpserver\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:42:12.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\HK2_2024\\LT_network\\Baitap\\udpserver\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\udpserver\\Form1.cs",
+              "ToolTip": "E:\\HK2_2024\\LT_network\\Baitap\\udpserver\\Form1.cs",
+              "RelativeToolTip": "..\\udpserver\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:42:02.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

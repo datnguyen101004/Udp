@@ -1,0 +1,10 @@
+E:\HK2_2024\LT_network\Baitap\UdpServer\bin\Debug\UdpServer.exe.config
+E:\HK2_2024\LT_network\Baitap\UdpServer\bin\Debug\UdpServer.exe
+E:\HK2_2024\LT_network\Baitap\UdpServer\bin\Debug\UdpServer.pdb
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.csproj.AssemblyReference.cache
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.Form1.resources
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.Properties.Resources.resources
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.csproj.GenerateResource.cache
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.exe
+E:\HK2_2024\LT_network\Baitap\UdpServer\obj\Debug\UdpServer.pdb
